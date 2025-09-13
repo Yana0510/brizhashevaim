@@ -1,0 +1,16 @@
+#------------------------------------------------------------------------------
+# Modified Calculate Utilities 3.7.6.9
+# Processed template files:
+# /var/db/repos/calculate/profiles/templates/6_ac_desktop_profile/2-user/xfce-base/Xfce-4.10/Desktop/Home.desktop
+#------------------------------------------------------------------------------
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Home
+Comment=Browser Home
+Categories=Application;
+Exec=thunar /home/brizhashevaim/Home
+Icon=user-home
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,9 @@
+#------------------------------------------------------------------------------
+# Modified Calculate Utilities 3.7.6.9
+# Processed template files:
+# /var/calculate/templates/6_ac_desktop_profile/xfce/.config/xfce4/helpers.rc
+#------------------------------------------------------------------------------
+
+WebBrowser=firefox-bin
+FileManager=Thunar
+MailReader=sylpheed-claws

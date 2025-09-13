@@ -1,0 +1,17 @@
+#------------------------------------------------------------------------------
+# Modified Calculate Utilities 3.7.6.9
+# Processed template files:
+# /var/db/repos/calculate/profiles/templates/6_ac_desktop_profile/2-user/xfce-base/Xfce-4.10/Desktop/Share.desktop
+#------------------------------------------------------------------------------
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Share
+Comment=Browser Share
+Categories=Application;
+Exec=thunar /home/brizhashevaim/Share
+Icon=folder-remote
+Terminal=false
+StartupNotify=false

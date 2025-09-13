@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Type=Application
+Exec=xfce4-session-logout --logout
+Icon=/usr/local/icons/logoff-48.png
+StartupNotify=true
+Name[ru_RU]=Завершить\nсеанс
+Terminal=false
+Comment[ru]=Завершение сеанса

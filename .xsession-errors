@@ -1,0 +1,63 @@
+
+(nvidia-settings:4614): dbind-WARNING **: 09:51:25.246: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+ERROR: NVIDIA driver is not loaded
+
+
+(xfce4-session:4598): dbind-WARNING **: 09:51:25.481: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+/usr/bin/iceauth:  creating new authority file /run/user/2626/ICEauthority
+gpg-agent[4665]: создан каталог '/home/brizhashevaim/.gnupg'
+gpg-agent[4665]: создан каталог '/home/brizhashevaim/.gnupg/private-keys-v1.d'
+gpg-agent[4666]: gpg-agent (GnuPG) 2.4.5 started
+
+(xfwm4:4667): dbind-WARNING **: 09:51:25.540: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfsettingsd:4678): dbind-WARNING **: 09:51:25.870: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-panel:4689): dbind-WARNING **: 09:51:26.005: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(Thunar:4694): dbind-WARNING **: 09:51:26.045: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfdesktop:4700): dbind-WARNING **: 09:51:26.081: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(wrapper-2.0:4704): dbind-WARNING **: 09:51:26.158: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(wrapper-2.0:4705): dbind-WARNING **: 09:51:26.163: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(wrapper-2.0:4708): dbind-WARNING **: 09:51:26.164: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(wrapper-2.0:4706): dbind-WARNING **: 09:51:26.169: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+discover_other_daemon: 1discover_other_daemon: 1discover_other_daemon: 1
+(xfce4-clipman:4733): dbind-WARNING **: 09:51:26.226: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(polkit-gnome-authentication-agent-1:4765): dbind-WARNING **: 09:51:26.256: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-power-manager:4777): dbind-WARNING **: 09:51:26.277: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-notifyd:4770): dbind-WARNING **: 09:51:26.278: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfsettingsd:4799): dbind-WARNING **: 09:51:26.282: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(volumeicon:4800): dbind-WARNING **: 09:51:26.288: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-screensaver:4788): dbind-WARNING **: 09:51:26.292: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+ALSA lib /var/calculate/tmp/portage/media-libs/alsa-lib-1.2.11/work/alsa-lib-1.2.11/src/confmisc.c:165:(snd_config_get_card) Cannot get card index for 0
+Failed to open sound device with name: hw:0
+
+(blueman-applet:4740): dbind-WARNING **: 09:51:26.400: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+blueman-applet 09.51.26 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.51.26 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.51.26 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+User can not to perform the system update
+
+(exo-open:4939): dbind-WARNING **: 09:51:45.895: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-mime-helper:4944): dbind-WARNING **: 09:51:45.927: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(soffice:6453): dbind-WARNING **: 09:57:18.507: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(soffice:6462): dbind-WARNING **: 09:57:19.002: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(exo-open:6518): dbind-WARNING **: 10:05:24.728: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
+
+(xfce4-mime-helper:6523): dbind-WARNING **: 10:05:24.760: Couldn't connect to accessibility bus: Failed to connect to socket /root/.cache/at-spi/bus_0: Отказано в доступе
